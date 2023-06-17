@@ -1,0 +1,31 @@
+.home {
+    background: linear-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url(../images/viber_image_2023-05-28_06-32-25-779.jpg) no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/viber_image_2023-05-28_06-32-25-779.jpg) no-repeat;
+    /* background-size: 1300px 800px; */
+    background-position: left;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    height: 800px;
+  }
+  .home span {
+    font-size: 2.5rem;
+    color: #fff;
+  }
+  .home h3 {
+    padding: 1rem 0;
+    font-size: 6rem;
+    color: #fff;
+  }
+  .home .link-btn {
+    color: #fff;
+    border-color: #fff;
+  }
+  
+  .moveable{
+    position: absolute;
+    left: 250px;
+    top: 130px;
+    
+
+  }
